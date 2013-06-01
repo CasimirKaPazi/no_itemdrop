@@ -1,0 +1,9 @@
+no_itemdrop
+mod for minetest
+
+Attached nodes fall down instead of drop, also saplings.
+Includes fullinventory mod by 0gb.us http://forum.minetest.net/viewtopic.php?id=4044
+
+license:
+	fullinventory - GNU LGPL version 2
+	everything else - GPLv3
